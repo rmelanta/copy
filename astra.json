@@ -1,0 +1,10 @@
+{
+  "name": "Astra/Spark Migration Tool",
+  "description": "Migrate data from an existing Cassandra cluster to Astra using a Spark application.",
+  "duration": "40 minutes",
+  "skillLevel": "Expert",
+  "githubUrl": "https://github.com/DataStax-Examples/astra-spark-migration",
+  "tags": [{ "name": "labs", "color": "warning" }, { "name": "scala" }],
+  "category": "tools",
+  "priority": 1
+}
